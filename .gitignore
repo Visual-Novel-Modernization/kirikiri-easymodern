@@ -1,0 +1,30 @@
+# Build products and local configuration
+/bin/
+/build/
+.local/
+.env
+.env.*
+*.user
+*.local.*
+# Proprietary assets and generated conversion data
+/unpacked/
+/work/
+/output/
+/release/
+/originals/
+/staging/
+/logs/
+/*_source.json
+/source_summary.json
+*.xp3
+*.sig
+*.exe
+*.dll
+*.bgra
+*.jxl
+*.png
+*.tlg
+*.log
+*.tmp
+__pycache__/
+*.pyc
