@@ -1,0 +1,25 @@
+# Runtime data and build products must remain external.
+/bin/
+/build/
+/work/
+/unpacked/
+/output/
+/release/
+/logs/
+*.exe
+*.dll
+*.a
+*.o
+*.obj
+*.xp3
+*.png
+*.jxl
+*.bgra
+*.json
+*.log
+*.i64
+*.idb
+__pycache__/
+*.pyc
+.env
+*.local.*
