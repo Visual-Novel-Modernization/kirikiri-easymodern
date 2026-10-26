@@ -1,0 +1,5 @@
+LIBRARY av1_gst_hook
+EXPORTS
+  V2Link=V2Link@4
+  V2Unlink=V2Unlink@0
+  GetActiveAv1Decoder=GetActiveAv1Decoder@0

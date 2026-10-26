@@ -1,0 +1,34 @@
+# Binaries and intermediate build deliverables
+bin/
+build/
+*.exe
+*.dll
+*.o
+*.obj
+*.a
+
+# Game assets and archive files
+*.xp3
+*.png
+*.tlg
+*.jxl
+*.bgra
+*.mpg
+*.wmv
+*.mp4
+
+# Workspaces, temporary files, logs, and caches
+work/
+logs/
+*.log
+*.tmp
+__pycache__/
+*.pyc
+
+# IDA database artifacts
+*.i64
+*.id0
+*.id1
+*.id2
+*.nam
+*.til
